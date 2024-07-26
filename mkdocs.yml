@@ -1,23 +1,132 @@
-site_name: My Docs
-site_url:
+site_name: yanlin's step
+site_url: https://yan000000000.github.io/touring/
 site_author: yinlam
+
+nav:
+  - Home: index.md
+  - About:
+    - 'Author': about.md
+  - Travel:
+    - 'General': general.md
+    - 'Singapore': singapore.md
+    - 'Sydney': sydney.md
+    - 'Melbourne': melbourne.md
+
+
 theme: 
   name: material
-  palette: # 调色盘设置颜色 可以为下面的每个模式分开设置颜色
-    scheme: default # 设置主题 亮色(default)或者暗色模式(slate)
-    primary: teal # 设置首选主题颜色 主要是最上面一长条的颜色
-    accent: orange # 设置强调颜色 如超链接被选中时候的颜色
 
-    # ---------------- 日夜模式设置 ----------------
+  # ================ 调色盘颜色设置 可以为下面的每个模式分开设置颜色 ================
+  palette: 
+
+    # ---------------- 日夜模式设置介绍 ----------------
+    # media 根据用户喜好选择第一主题
+    # 设置主题 亮色(default)或者暗色模式(slate)
     # 每个scheme 必须要有icon和name
-    # Palette toggle for light mode
-    - scheme: default
-      toggle:
-        icon: material/brightness-7 
-        name: Switch to dark mode
+    # primary 设置首选主题颜色 主要是最上面一长条的颜色
+    # accent 设置强调颜色 如超链接被选中时候的颜色
+    # name 设置悬浮icon时显示的名称
+    # ---------------- 日夜模式设置 ----------------
 
-    # Palette toggle for dark mode
-    - scheme: slate
+    # # 自动模式 感觉不是很好用，先放着
+    # - media: "(prefers-color-scheme)" #根据系统自动切换
+    #   toggle:
+    #     icon: material/weather-sunny
+    #     name: Switch to light mode
+
+    # 日模式
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: teal 
+      accent: orange 
       toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+        icon: material/weather-night
+        name: Switch to dark mode
+        
+
+    # 夜模式
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference mode
+
+  # ================ 字体设置 ================
+  font:
+
+    # ---------------- 字体设置介绍 ----------------
+    # text 设置正文字体
+    # code 设置代码块字体
+    # ---------------- 字体设置介绍  ----------------
+
+    text: 'Fira Code'
+    code: 'JetBrains Mono'
+
+  # ================ 功能设置 ================
+  features:
+
+    #导航设置
+    - navigation.instant # 快速刷新可以变得很流畅
+    # - navigation.instant.prefetch # 预加载 sponsor only
+    - navigation.instant.progress # 进度条
+    # - navigation.instant.preview # 预览 sponsor only
+    - navigation.tracking
+    - navigation.tabs 
+    # - navigation.sections
+    # - navigation.expand
+    - navigation.top
+    - navigation.prune
+    - navigation.indexes
+
+    #代码块设置
+    - content.code.copy
+
+    #搜索设置
+    - search.suggest
+
+
+  # ================ markdown设置 ================
+
+markdown_extensions:
+    - tables
+    - abbr
+    - pymdownx.caret
+    - pymdownx.mark
+    - pymdownx.tilde
+    - md_in_html
+    - pymdownx.arithmatex:  # latex支持
+        generic: true
+    - toc:
+        permalink: true # 固定标题位置为当前位置
+    - pymdownx.highlight: # 代码块高亮
+        anchor_linenums: true
+        # linenums: true # 显示行号
+        # auto_title: true # 显示编程语言名称
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - pymdownx.superfences
+    - attr_list
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.superfences # 代码块高亮插件
+    - meta # 支持Markdown文件上方自定义标题标签等
+
+
+
+plugins:
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+      auto_caption: false
+      caption_position: bottom
+      background: white
+      shadow: true
+      manual: false
+  - search
