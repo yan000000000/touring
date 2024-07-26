@@ -1,3 +1,17 @@
+### 准备
+
+:white_check_mark: 零钱 2200澳币 
+
+:white_check_mark: visa
+
+:black_square_button: 手机卡 Telstra 或者 Optus
+
+:black_square_button: 转换插头（新加坡为英标插头，澳洲与大陆相同，但是两脚电器需要转换插头）
+
+:black_square_button: 防晒霜
+
+:black_square_button: OPAL卡？
+
 ### 行程安排
 
 | Date      | Duration | City     | Flight                                            |
@@ -12,15 +26,25 @@
 
 #### Hotel
 
-| Date      | Duration | Website     | Total             | Payment    | Executor | Cancel |
-| --------- | -------- | ----------- | ----------------- | ---------- | -------- | ------ |
-| 8.18-8.23 | 6天5晚   | booking.com | 3355hkd 3125.6rmb | Visa       | Steve    | 8.21   |
-| 8.23-8.26 | 4天3晚   | 去哪儿      | 2767rmb           | Wechat     | Steve    | 8.13   |
-| 8.24-8.26 | 3天2晚   | 携程        | 1696rmb           | 招商银行卡 | steve    | 8.19   |
+| Date      | Duration | Hotel                        | Website | Total   | Payment | Executor | Cancel |
+| --------- | -------- | ---------------------------- | ------- | ------- | ------- | -------- | ------ |
+| 8.18-8.23 | 6天5晚   | Canvas Apartment             | Klook   | 2708.8  | WeChat  | Steve    | 8.13   |
+| 8.23-8.26 | 4天3晚   | Holiday Inn Express Brisbane | 去哪儿  | 2767rmb | Wechat  | Steve    | 8.13   |
+
+
+
+
+
+### 酒店地址
+
+* Canvas Hotel
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d965.5727444808629!2d144.95594654055827!3d-37.820835541857804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d6d2d67f727%3A0x1fc5fef399c7a93!2sThe%20Canvas%20Apartment%20Hotel!5e0!3m2!1szh-CN!2s!4v1721984338932!5m2!1szh-CN!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+* Holiday Inn Express Brisbane
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7283.715544849224!2d153.02488688833233!3d-27.462242828347627!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9159f852169e3d%3A0x4b16fd076f91803f!2sHoliday%20Inn%20Express%20Brisbane%20Central%2C%20an%20IHG%20Hotel!5e0!3m2!1szh-CN!2s!4v1721985134975!5m2!1szh-CN!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### 网址
 
 booking机场免费接送[传送门](https://taxis.booking.com/search/?date=2024-08-18&passengers=2&utm_campaign=www-BOOKING_HOTEL_CONFIRMATION-MODAL-taxi-missing_creative-2EiB09z8P79QpfDN0wHjAu&utm_medium=intra&dropoff=-37.8206888852675%2C144.955761532188&etStateBlob=EP8CRsX1HaSrZ9C5xulCFKTSsz6lMqdMcHgKe7BPYJfj2XS4y10R4kUIQIwTTQ8QUP6O2IgduOJ_KkFcYo-6HKfnFUjAcRHeGwEDvRdBNULbd1uljaYtPqxUNWX_4QLms&pickup=MEL&label=gog235jc-1FCAEoggI46AdIM1gDaGKIAQGYASu4AQfIAQ3YAQHoAQH4AQyIAgGoAgO4Ao686rQGwAIB0gIkNGZiMjVjMGMtOWQ2Yy00NzYzLWE0MWEtNmY5ZDJkYjgzMTY22AIG4AIB&adcamp=www-BOOKING_HOTEL_CONFIRMATION-MODAL-taxi-missing_creative-2EiB09z8P79QpfDN0wHjAu&dropoffEstablishment=The+Canvas+Apartment+Hotel&currency=HKD&time=12%3A00&aid=397594&client_name=exposure&utm_source=booking.com&offerInstanceId=1946eb04-a547-4d79-a374-807802fe57b6&campaignId=c05f5236-7475-464d-8f32-338e859187e5&lang=zh-cn&adplat=www-BOOKING_HOTEL_CONFIRMATION-MODAL-taxi-PRODUCT-2EiB09z8P79QpfDN0wHjAu&comments=p2OLplgP6kqBccWQK722tg&preSelectedResultReference=1)
-
-canvas hotel
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d965.5727444808629!2d144.95594654055827!3d-37.820835541857804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d6d2d67f727%3A0x1fc5fef399c7a93!2sThe%20Canvas%20Apartment%20Hotel!5e0!3m2!1szh-CN!2s!4v1721984338932!5m2!1szh-CN!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
