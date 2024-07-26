@@ -40,7 +40,7 @@
 
 路上会经过Lady Bay Beach 和 Camp Cove Beach 这两个当地人比较喜欢的沙滩和霍恩比灯塔
 
-![image-20240626214651963](assets/image-20240626214651963.png)
+![image-20240626214651963](assets/image-20240626214651963.png){ loading=lazy}
 
 #### Day2 市区
 

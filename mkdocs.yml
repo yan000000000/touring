@@ -37,7 +37,7 @@ theme:
     # 日模式
     - media: '(prefers-color-scheme: light)'
       scheme: default
-      primary: teal 
+      primary: teal
       accent: orange 
       toggle:
         icon: material/weather-night
