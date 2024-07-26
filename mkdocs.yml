@@ -3,3 +3,21 @@ site_url:
 site_author: yinlam
 theme: 
   name: material
+  palette: # 调色盘设置颜色 可以为下面的每个模式分开设置颜色
+    scheme: default # 设置主题 亮色(default)或者暗色模式(slate)
+    primary: teal # 设置首选主题颜色 主要是最上面一长条的颜色
+    accent: orange # 设置强调颜色 如超链接被选中时候的颜色
+
+    # ---------------- 日夜模式设置 ----------------
+    # 每个scheme 必须要有icon和name
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
