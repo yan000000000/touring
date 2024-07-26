@@ -1,3 +1,5 @@
 site_name: My Docs
-
-
+site_url:
+site_author: yinlam
+theme: 
+  name: material
