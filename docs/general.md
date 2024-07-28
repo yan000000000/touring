@@ -1,10 +1,10 @@
 ### 准备
 
-:white_check_mark: 零钱 2200澳币 
+:white_check_mark: 零钱 3000澳币 
 
 :white_check_mark: visa
 
-:black_square_button: 手机卡 Telstra 或者 Optus
+:white_check_mark: 手机卡 Optus
 
 :black_square_button: 转换插头（新加坡为英标插头，澳洲与大陆相同，但是两脚电器需要转换插头）
 
@@ -16,7 +16,7 @@
 
 :black_square_button: 借住叔叔的礼物
 
-:black_square_button: 证件
+:black_square_button: 证件（passport）
 
 
 
@@ -65,3 +65,10 @@
 ### 网址
 
 booking机场免费接送[传送门](https://taxis.booking.com/search/?date=2024-08-18&passengers=2&utm_campaign=www-BOOKING_HOTEL_CONFIRMATION-MODAL-taxi-missing_creative-2EiB09z8P79QpfDN0wHjAu&utm_medium=intra&dropoff=-37.8206888852675%2C144.955761532188&etStateBlob=EP8CRsX1HaSrZ9C5xulCFKTSsz6lMqdMcHgKe7BPYJfj2XS4y10R4kUIQIwTTQ8QUP6O2IgduOJ_KkFcYo-6HKfnFUjAcRHeGwEDvRdBNULbd1uljaYtPqxUNWX_4QLms&pickup=MEL&label=gog235jc-1FCAEoggI46AdIM1gDaGKIAQGYASu4AQfIAQ3YAQHoAQH4AQyIAgGoAgO4Ao686rQGwAIB0gIkNGZiMjVjMGMtOWQ2Yy00NzYzLWE0MWEtNmY5ZDJkYjgzMTY22AIG4AIB&adcamp=www-BOOKING_HOTEL_CONFIRMATION-MODAL-taxi-missing_creative-2EiB09z8P79QpfDN0wHjAu&dropoffEstablishment=The+Canvas+Apartment+Hotel&currency=HKD&time=12%3A00&aid=397594&client_name=exposure&utm_source=booking.com&offerInstanceId=1946eb04-a547-4d79-a374-807802fe57b6&campaignId=c05f5236-7475-464d-8f32-338e859187e5&lang=zh-cn&adplat=www-BOOKING_HOTEL_CONFIRMATION-MODAL-taxi-PRODUCT-2EiB09z8P79QpfDN0wHjAu&comments=p2OLplgP6kqBccWQK722tg&preSelectedResultReference=1)
+
+### 其他消费
+
+| Date      | Event       | Total  | In Charge |
+| --------- | ----------- | ------ | --------- |
+| 2024.7.28 | Optus手机卡 | 140.73 | EY        |
+
