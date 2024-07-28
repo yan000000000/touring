@@ -12,7 +12,6 @@ nav:
     - 'Sydney': sydney.md
     - 'Melbourne': melbourne.md
 
-
 theme: 
   name: material
 
@@ -93,6 +92,9 @@ markdown_extensions:
     - pymdownx.caret
     - pymdownx.mark
     - pymdownx.tilde
+    - def_list
+    - pymdownx.tasklist:
+        custom_checkbox: true
     - md_in_html
     - pymdownx.arithmatex:  # latex支持
         generic: true
@@ -130,3 +132,6 @@ plugins:
       shadow: true
       manual: false
   - search
+
+
+extra_css: [extra.css]
