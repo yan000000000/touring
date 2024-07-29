@@ -6,13 +6,13 @@
 
 :white_check_mark: 手机卡 Optus
 
+:white_check_mark: 新币
+
 :black_square_button: 转换插头（新加坡为英标插头，澳洲与大陆相同，但是两脚电器需要转换插头）
 
 :black_square_button: 防晒霜
 
 :black_square_button: OPAL卡？
-
-:black_square_button: 新币？
 
 :black_square_button: 借住叔叔的礼物
 
@@ -39,18 +39,21 @@
 | 8.28 | 11:00-17:30 | 悉尼   | 新加坡      |
 | 8.29 | 22:10-2:20  | 新加坡 | 深圳        |
 
+### 高铁信息
+
+| Date | Time        | Origin | Destination | Price |
+| ---- | ----------- | ------ | ----------- | ----- |
+| 8.9  | 22:49-23:25 | 广州南 | 深圳北      | 74.5  |
+
 
 
 ### 酒店信息
 
-| Date      | Duration | Hotel                        | Website | Total   | Payment | Executor | Cancel |
-| --------- | -------- | ---------------------------- | ------- | ------- | ------- | -------- | ------ |
-| 8.18-8.23 | 6天5晚   | Canvas Apartment             | Klook   | 2708.8  | WeChat  | Steve    | 8.13   |
-| 8.23-8.26 | 4天3晚   | Holiday Inn Express Brisbane | 去哪儿  | 2767rmb | Wechat  | Steve    | 8.13   |
-
-
-
-
+| Date      | Duration | Hotel                          | Website | Total   | Payment | Executor | Cancel |
+| --------- | -------- | ------------------------------ | ------- | ------- | ------- | -------- | ------ |
+| 8.18-8.23 | 6天5晚   | Canvas Apartment               | Klook   | 2708.8  | WeChat  | Steve    | 8.13   |
+| 8.23-8.26 | 4天3晚   | Holiday Inn Express Brisbane   | 去哪儿  | 2767rmb | Wechat  | Steve    | 8.13   |
+| 8.26-8.28 | 3天2晚   | Oaks Sydney Goldsbrough Suites | 去哪儿  | 1351    | Wechat  | Steve    | No     |
 
 ### 酒店地址
 
@@ -61,6 +64,10 @@
 * Holiday Inn Express Brisbane
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7283.715544849224!2d153.02488688833233!3d-27.462242828347627!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b9159f852169e3d%3A0x4b16fd076f91803f!2sHoliday%20Inn%20Express%20Brisbane%20Central%2C%20an%20IHG%20Hotel!5e0!3m2!1szh-CN!2s!4v1721985134975!5m2!1szh-CN!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+* Oaks Sydney Goldsbrough Suites
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13250.423889409256!2d151.1869590742222!3d-33.874044255965366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12ae30664af12d%3A0x275c7e158403b69a!2z55ub5qmh6YeR6Imy5Z-O5aCh6YWS5bqX!5e0!3m2!1szh-CN!2sjp!4v1722195181886!5m2!1szh-CN!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ### 网址
 

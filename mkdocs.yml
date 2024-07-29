@@ -83,6 +83,9 @@ theme:
     #搜索设置
     - search.suggest
 
+    # - toc.integrate
+    - toc.fold
+
 
   # ================ markdown设置 ================
 

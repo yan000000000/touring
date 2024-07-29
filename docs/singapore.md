@@ -51,24 +51,30 @@
 * 每张卖<font color = '#e65529'>10-12新不等</font>， 包括<font color = '#e65529'>无法退还</font>的5新币工本费和剩下新币的储值金。如果EZlink的储值金少于3块是不能用的，要增值，每次最少增值10新币
 
 * 用EZlink转乘有比较大的优惠，会比单程票优惠一些
-* 也有专门自由行的1/2/3天无限EZlink交通卡，分别为20/26/30新，其中包含10新租金（使用到期退回）
+* 也有专门自由行的1/2/3天无限EZlink交通卡，分别为22/26/30新，其中包含10新租金（使用到期退回）
 
+##### NETS：
 
+* 只能用于支付地铁和公交
 
-[参考网站](https://www.bugi.tw/2015/08/ezlink.html)
+#### 出租车
 
+不同颜色的出租车价格不一样，黑色是最贵的
 
+#### 打车
 
-
-
-* 巴士 -- 大概2新
-* taxi
+Uber/Easy Taxi/GrabTaxi 新加坡三大打车软件
 
 ### 景点参考
 
-* 环球影城
-* 新加坡动物园
-* 新加坡植物园(botanic garden)
+#### 新国立
+
+免费参观，餐厅对外开放但是对访客不同价格
+
+[self-guided tour](https://cde.nus.edu.sg/undergraduate/pre-university-engagement-campustours-selfguidedtour/)
+
+
+
 * 鱼尾狮公园
 * 滨海湾公园
 * 马里安曼印度庙
@@ -78,15 +84,11 @@
 * 甘榜格南(kampong glam) --苏丹风格
 * 摩士街(Mosque Street)--清真寺街
 * 小印度(Little India) --印度
-
-* 圣淘沙(Sentosa) --人工沙滩
-  * 缆车，skytrain，或者汽车
 * 福康宁公园(Fort Canning Park)
   * <img src="../assets/image-20240619011749894.png" alt="image-20240619011749894" style="zoom:50%;" />
 * 樟宜机场(Changi Airport)
   * 比较多的店铺在Jewel，1号航站楼外边
   * 瀑布要十点十一点才会开
-* 虎豹别墅 --中国古代神话传说的故事的雕像和实景模型
 
 ### 购物
 
@@ -123,3 +125,13 @@
 * 禁止随处吸烟 1000新
 * 禁止开车玩手机 1000新/6个月监禁
 * 禁止在公共场所唱歌
+
+### 参考网站
+
+[新加坡地铁卡EZlink介绍](https://www.bugi.tw/2015/08/ezlink.html)
+
+[新加坡EZlink和NETS对比](https://www.sgplanking.com/article/762854)
+
+[新加坡交通参考](https://www.sgplanking.com/article/762854)
+
+[新加坡公交车/巴士乘坐攻略](https://www.mafengwo.cn/gonglve/ziyouxing/1106.html)
