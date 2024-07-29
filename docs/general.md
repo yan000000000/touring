@@ -32,18 +32,21 @@
 
 ### 机票信息
 
-| Date | Time        | Origin | Destination |
-| ---- | ----------- | ------ | ----------- |
-| 8.10 | 3:35-7:25   | 深圳   | 新加坡      |
-| 8.11 | 0:45-10:25  | 新加坡 | 悉尼        |
-| 8.28 | 11:00-17:30 | 悉尼   | 新加坡      |
-| 8.29 | 22:10-2:20  | 新加坡 | 深圳        |
+| Date | Time        | Origin   | Destination | 航班号 |
+| ---- | ----------- | -------- | ----------- | ------ |
+| 8.10 | 3:35-7:25   | 深圳     | 新加坡      | SQ861  |
+| 8.11 | 0:45-10:25  | 新加坡   | 悉尼        | SQ231  |
+| 8.18 | 11:00-12:35 | 悉尼     | 墨尔本      | ZL101  |
+| 8.23 | 16:05-18:15 | 墨尔本   | 布里斯班    | ZL258  |
+| 8.26 | 11:30-13:05 | 布里斯班 | 悉尼        | ZL337  |
+| 8.28 | 11:00-17:30 | 悉尼     | 新加坡      | SQ232  |
+| 8.29 | 22:10-2:20  | 新加坡   | 深圳        | SQ860  |
 
 ### 高铁信息
 
-| Date | Time        | Origin | Destination | Price |
-| ---- | ----------- | ------ | ----------- | ----- |
-| 8.9  | 22:49-23:25 | 广州南 | 深圳北      | 74.5  |
+| Date | Time        | Origin | Destination |
+| ---- | ----------- | ------ | ----------- |
+| 8.9  | 22:49-23:25 | 广州南 | 深圳北      |
 
 
 
@@ -73,9 +76,10 @@
 
 booking机场免费接送[传送门](https://taxis.booking.com/search/?date=2024-08-18&passengers=2&utm_campaign=www-BOOKING_HOTEL_CONFIRMATION-MODAL-taxi-missing_creative-2EiB09z8P79QpfDN0wHjAu&utm_medium=intra&dropoff=-37.8206888852675%2C144.955761532188&etStateBlob=EP8CRsX1HaSrZ9C5xulCFKTSsz6lMqdMcHgKe7BPYJfj2XS4y10R4kUIQIwTTQ8QUP6O2IgduOJ_KkFcYo-6HKfnFUjAcRHeGwEDvRdBNULbd1uljaYtPqxUNWX_4QLms&pickup=MEL&label=gog235jc-1FCAEoggI46AdIM1gDaGKIAQGYASu4AQfIAQ3YAQHoAQH4AQyIAgGoAgO4Ao686rQGwAIB0gIkNGZiMjVjMGMtOWQ2Yy00NzYzLWE0MWEtNmY5ZDJkYjgzMTY22AIG4AIB&adcamp=www-BOOKING_HOTEL_CONFIRMATION-MODAL-taxi-missing_creative-2EiB09z8P79QpfDN0wHjAu&dropoffEstablishment=The+Canvas+Apartment+Hotel&currency=HKD&time=12%3A00&aid=397594&client_name=exposure&utm_source=booking.com&offerInstanceId=1946eb04-a547-4d79-a374-807802fe57b6&campaignId=c05f5236-7475-464d-8f32-338e859187e5&lang=zh-cn&adplat=www-BOOKING_HOTEL_CONFIRMATION-MODAL-taxi-PRODUCT-2EiB09z8P79QpfDN0wHjAu&comments=p2OLplgP6kqBccWQK722tg&preSelectedResultReference=1)
 
-### 其他消费
+### 消费
 
-| Date      | Event       | Total  | In Charge |
-| --------- | ----------- | ------ | --------- |
-| 2024.7.28 | Optus手机卡 | 140.73 | EY        |
+| Date      | Event       | Total  | In Charge | Done |
+| --------- | ----------- | ------ | --------- | ---- |
+| 2024.7.28 | Optus手机卡 | 140.73 | EY        |      |
+| 2024.7.29 | 高铁        | 149    | Steve     | yeap |
 
