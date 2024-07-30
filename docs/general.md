@@ -8,15 +8,17 @@
 
 :white_check_mark: 新币
 
-:black_square_button: 转换插头（新加坡为英标插头，澳洲与大陆相同，但是两脚电器需要转换插头）
+:white_check_mark: 转换插头（新加坡为英标插头，澳洲与大陆相同，但是两脚电器需要转换插头）
+
+:white_check_mark: OPAL卡线下办
 
 :black_square_button: 防晒霜
 
-:black_square_button: OPAL卡？
-
-:black_square_button: 借住叔叔的礼物
+:black_square_button: 借住叔叔的礼物， 给暻昊的东西
 
 :black_square_button: 证件（passport）
+
+:black_square_button: 一日团
 
 
 

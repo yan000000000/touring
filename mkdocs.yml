@@ -8,7 +8,9 @@ nav:
     - 'Author': about.md
   - Travel:
     - 'General': general.md
-    - 'Singapore': singapore.md
+    - 'Singapore': 
+      - 'general': singapore.md
+      - 'food': food.md
     - 'Sydney': sydney.md
     - 'Melbourne': melbourne.md
 
@@ -86,6 +88,8 @@ theme:
     # - toc.integrate
     - toc.fold
 
+hide:
+  - navigation
 
   # ================ markdown设置 ================
 

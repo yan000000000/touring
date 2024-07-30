@@ -65,7 +65,7 @@ Uber/Easy Taxi/GrabTaxi 新加坡三大打车软件
 
 #### 新国立
 
-免费参观，餐厅对外开放但是对访客不同价格
+免费参观，餐厅对外开放但是对访客不同价格，两个图书馆取消门卡制度
 
 [self-guided tour](https://cde.nus.edu.sg/undergraduate/pre-university-engagement-campustours-selfguidedtour/)
 
