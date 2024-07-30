@@ -9,8 +9,10 @@ nav:
   - Travel:
     - 'General': general.md
     - 'Singapore': 
-      - 'general': singapore.md
-      - 'food': food.md
+      - 'traffic': singapore/traffic.md
+      - 'site': singapore/site.md
+      - 'food': singapore/food.md
+      - 'tips': singapore/tips.md
     - 'Sydney': sydney.md
     - 'Melbourne': melbourne.md
 
