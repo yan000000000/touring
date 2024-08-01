@@ -1,11 +1,3 @@
-
-
-[传送门](https://www.youtube.com/watch?v=rhab6dKpsuY&t=284s)
-
-### 墨尔本交通
-
-[马蜂窝介绍](https://www.mafengwo.cn/gonglve/ziyouxing/320532.html)
-
 ### 景点
 
 Hosier Lane: 著名的涂鸦街
@@ -54,28 +46,7 @@ Carlton Gardens 这个草坪漂亮
 
 * 菲利普岛小蓝企鹅归巢
 
-### 交通
+### reference
 
-市中心Free Tram Zone范围内乘电车不用钱，单程收费5刀，一天最多收费10刀，假日最多收费7.2刀
+[传送门](https://www.youtube.com/watch?v=rhab6dKpsuY&t=284s)
 
-![image-20240626231758923](assets/image-20240626231758923.png)
-
-Uber？我猜是当地的电车
-
-### 美食
-
-48h Pizza Gnocchi Bar 据说是澳洲第一名的pizza
-
-<img src="assets/image-20240626225213737.png" alt="image-20240626225213737" style="zoom:50%;" />
-
-Lune Croissanterie 看起来很好吃的牛角包
-
-Market Lane的咖啡好像不错
-
-Dukes Coffee Roasters 咖啡馆，装修很好（价格好像还行
-
-Fish n Chips? D'lish Fish
-
-![image-20240626230638399](assets/image-20240626230638399.png)
-
-Hardware société 咖啡店，网上评价不错 好像brunch餐点啥的都很好吃

@@ -13,8 +13,16 @@ nav:
       - 'site': singapore/site.md
       - 'food': singapore/food.md
       - 'tips': singapore/tips.md
-    - 'Sydney': sydney.md
-    - 'Melbourne': melbourne.md
+    - 'Sydney':
+      - 'traffic': sydney/traffic.md
+      - 'site': sydney/site.md
+      - 'food': sydney/food.md
+    - 'Melbourne':
+      - 'traffic': melbourne/traffic.md
+      - 'site': melbourne/site.md
+      - 'food': melbourne/food.md
+    
+
 
 theme: 
   name: material

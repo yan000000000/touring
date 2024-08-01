@@ -54,11 +54,11 @@
 
 ### 酒店信息
 
-| Date      | Duration | Hotel                          | Website | Total   | Payment | Executor | Cancel |
-| --------- | -------- | ------------------------------ | ------- | ------- | ------- | -------- | ------ |
-| 8.18-8.23 | 6天5晚   | Canvas Apartment               | Klook   | 2708.8  | WeChat  | Steve    | 8.13   |
-| 8.23-8.26 | 4天3晚   | Holiday Inn Express Brisbane   | 去哪儿  | 2767rmb | Wechat  | Steve    | 8.13   |
-| 8.26-8.28 | 3天2晚   | Oaks Sydney Goldsbrough Suites | 去哪儿  | 1351    | Wechat  | Steve    | No     |
+| Date      | Duration | Position  | Hotel                          | Website | Total   | Payment | Executor | Cancel |
+| --------- | -------- | --------- | ------------------------------ | ------- | ------- | ------- | -------- | ------ |
+| 8.18-8.23 | 6天5晚   | Melbourne | Canvas Apartment               | Klook   | 2708.8  | WeChat  | Steve    | 8.13   |
+| 8.23-8.26 | 4天3晚   | Brisbane  | Holiday Inn Express Brisbane   | 去哪儿  | 2767rmb | Wechat  | Steve    | 8.13   |
+| 8.26-8.28 | 3天2晚   | Sydney    | Oaks Sydney Goldsbrough Suites | 去哪儿  | 1351    | Wechat  | Steve    | No     |
 
 ### 酒店地址
 
