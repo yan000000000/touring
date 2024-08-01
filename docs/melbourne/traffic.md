@@ -6,10 +6,10 @@
 
 #### Skybus:
 
-* Skybus 负责在南十字星车站和机场之间来往，营运时间从早上4点到凌晨1点，单程18澳元左右，15分钟一班，只需35分钟就到，中间不停站，timetable可以在[官网](https://www.skybus.com.au/melbourne-city-express/)上找到。
+* Skybus 负责在南十字星车站和机场之间来往，营运时间从早上4点到凌晨1点，单程23.9USD(173RMB)，40USD(290RMB)往返，15分钟一班，只需35分钟就到，中间不停站，timetable可以在[官网](https://www.skybus.com.au/melbourne-city-express/)上找到。
 * 机场出站口附近设有Skybus的售票亭及自动售票机，上面红底白字斜体写有“Skybus”，买好票排队等候就可以了。也可以用app或者线上，[skybus官网(https://www.skybus.com.au/melbourne-city-express/)。
 * 售票亭可使用现金或银行卡支付，自动售票机24小时开放，但只可使用银行卡支付。
-* <font color = '#e65529'>klook也可以买，可能有优惠，可以比较一下</font>
+* <font color = '#e65529'>klook也可以买，可以比较一下</font> 105RMB单程，往返176RMB
 
 ![image-20240802003431278](assets/image-20240802003431278.png)
 
@@ -36,7 +36,7 @@ Myki卡所有交通工具只能用Myki交通卡
 
 上下电车和公交都要刷卡，火车是进出站都要刷卡
 
-Myki空卡费为6澳币，计费方式有两种，分为<font color = '#e65529'>Myki Pass</font> 和<font color = '#e65529'>Myki Money</font> 
+Myki空卡费为6澳币，5-18岁可以买小孩，19岁以上全票(full fare)。计费方式有两种，分为<font color = '#e65529'>Myki Pass</font> 和<font color = '#e65529'>Myki Money</font> 
 
 #### Myki Pass
 
@@ -50,7 +50,7 @@ Myki空卡费为6澳币，计费方式有两种，分为<font color = '#e65529'>
 
 #### Myki Money
 
-计算方式以搭乘时间和区域来计算，有每日上限优惠
+计算方式以搭乘时间和区域来计算，有每日上限优惠，周末和节假日会便宜
 
 2小时：ZONE1+2 5澳币
 
@@ -61,6 +61,10 @@ Myki空卡费为6澳币，计费方式有两种，分为<font color = '#e65529'>
 ![image-20240802015625491](assets/image-20240802015625491.png)
 
 [计价官网](https://www.ptv.vic.gov.au/tickets/fares/metropolitan-fares/)
+
+#### Myki Explorer
+
+Myki Explorer是針對觀光客所販售的Myki，一張是15澳幣，包含6元的卡片費用以及9澳幣的Myki Money在裡面，另外包含一天的免費交通。這麼看起來Myki Explorer其實沒有比較便宜，而Myki Explorer唯一的好處就是，到訪墨爾本16個出名景能夠享有折扣優惠
 
 #### 购卡和增值
 
@@ -177,3 +181,5 @@ Thu-Sat: 10:00 - 21:00
 市中心Free Tram Zone范围内乘电车不用钱，单程收费5刀，一天最多收费10刀，假日最多收费7.2刀
 
 [myki攻略](https://chakekeke.com/melbourne-transport/#➀-一般電車)
+
+[补充攻略](https://www.kkday.com/zh-hk/blog/15301/australia-melbourne-transportation)
