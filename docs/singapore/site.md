@@ -58,6 +58,3 @@
 * 维多利亚街(bugis street)
 * (Orchard Road) --购物中心，奢侈品啥的
 * 金沙酒店商场(Shoppes at Marina Bay Sand)
-
-* * 
-

@@ -20,6 +20,14 @@
 
 :black_square_button: 一日团
 
+:black_square_button: 硬盘
+
+:black_square_button: 相机（电池，充电器，SD卡，眼镜布）
+
+:black_square_button: Mac 
+
+
+
 
 
 ### 行程安排
@@ -85,3 +93,9 @@ booking机场免费接送[传送门](https://taxis.booking.com/search/?date=2024
 | 2024.7.28 | Optus手机卡 | 140.73 | EY        |      |
 | 2024.7.29 | 高铁        | 149    | Steve     | yeap |
 
+### 澳洲小知识
+
+* 不同城市之间的机票价格很便宜
+* 租车要21岁以上
+* 不同地方交通卡不互通
+* 滑雪的缆车费用高的吓人
