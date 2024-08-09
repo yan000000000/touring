@@ -58,3 +58,12 @@
 * 维多利亚街(bugis street)
 * (Orchard Road) --购物中心，奢侈品啥的
 * 金沙酒店商场(Shoppes at Marina Bay Sand)
+
+* Tokyo Milk Factory（饼干
+* Bacha Coffee
+
+### 烟花
+
+完美错过！
+
+从6月15-8月9每周六晚都有烟花
