@@ -4,9 +4,9 @@
 
 * OPAL 卡，机场便利店可以拿到，卡本身不需要钱，直接跟店员讲充值多少就好了，其他地铁站啥的有自助的，一般最低20起充，多余不退，OPAL TRAVEL app可以看记录，只能悉尼用，墨尔本另说7刀办卡费
 
-* 机场-市区：Sydney Airport Link T8 20刀，或者绕开机场再坐，上下车都需要刷卡
+* 机场-市区：Sydney Airport Link T8 20刀，或者绕开机场再坐，上下车都需要刷卡，卡在站里就可以见到，一根柱子一样的东西
 
-  
+* 工作日上限16刀，周末上限8刀，一周上限50刀
 
 ### 航站楼之间
 
@@ -100,8 +100,6 @@ T2与T3之间可以直接步行， T1与T2 T3要交通工具
 主要分 火车(Train)， 捷运(Metro)， 公交(Bus)， 渡轮(Ferry)，轻轨(Light Rail)
 
 #### 火车(Train)
-
-
 
 [城际火车线路图](https://transportnsw.info/sites/default/files/document/2019/09/intercity-trains-network-map_0.pdf)
 

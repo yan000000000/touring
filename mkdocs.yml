@@ -21,6 +21,7 @@ nav:
       - 'traffic': melbourne/traffic.md
       - 'site': melbourne/site.md
       - 'food': melbourne/food.md
+    - Blog: blog.md
     
 
 
