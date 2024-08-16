@@ -68,7 +68,31 @@ Rock Market 市集 Sat Sun 10a.m. - 5p.m.
 
 Manly Kayak Center 租皮划艇 一小时50刀，穿梭在帆船之间
 
-* * 
+### Sydney Museum
+
+在museum 站下车就可以走到了
+
+基础展览免费，不用预约和门票，但是特殊展览需要花钱
+
+注意时间，下午5点关门！
+
+基本逛2-3小时就ok
+
+### 战争纪念博物馆
+
+没看明白，在公园里面
+
+### Taronga zoo
+
+携程上买票更便宜
+
+### 蓝山国家公园
+
+
+
+#### 参考
+
+[kkdays攻略](https://www.kkday.com/zh-tw/blog/20526/oceania-australia-sydney-blue-mountains-national-park#xue_li_lan_shan_guo_jia_gong_yuan_yi_ri_you_lan_chelie_che)
 
 ### 花费参考
 
