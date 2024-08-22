@@ -95,6 +95,7 @@ booking机场免费接送[传送门](https://taxis.booking.com/search/?date=2024
 | 2024.8.11 | 菲利普岛一日游   | 1790（double | Steve     |      |
 | 2024.8.14 | 塔龙加动物园门票 | 372（double  | Steve     |      |
 | 2024.8.15 | 大洋路一日游     | 478（double  | Steve     |      |
+| 2024.8.22 | skybus           | 204（double  | Steve     |      |
 
 ### 澳洲小知识
 
